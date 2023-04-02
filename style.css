@@ -1,0 +1,70 @@
+style{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    border-top: 100px solid #0e0423;
+    border-right: 100px solid #0e0423;
+    border-left: 100px solid #0e0423;
+    border-bottom: 0px solid #0e0423;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 60px;
+    text-align: center;
+
+}
+
+.myphoto{
+    float: right;
+    height: 300px;
+    border-radius: 250px;
+    padding-right: 30px;
+}
+img:hover{
+    transform:scale(1.1);
+    }
+
+
+
+.about{
+    padding: 30px 10px;
+    font-size: 30px;
+    width: 100%;
+    text-align: left;
+}
+
+.interests{
+    padding:30px 10px;
+    font-size: 30px;
+    text-align: left;
+}
+
+.travel{
+    float:left;
+    padding-left:30px;
+    padding-right: 30px;;
+}
+
+.a{
+    font-size: 30px;
+    padding: 0px 50px;
+}
+.third para{
+    padding-top: 50px;
+    text-align: center;
+}
+.tag{
+    text-align: center; 
+    font-size: 20px;
+    color: rgb(144, 64, 18);
+    background-color: #0e0423;
+    height:100px;
+    width:100%
+
+}
